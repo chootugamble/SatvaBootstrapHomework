@@ -1,0 +1,52 @@
+body {
+    font-family: Roboto_Google;
+}
+
+@font-face {
+    font-family: Roboto_Google;
+    src: url("../font/Roboto-Regular.ttf");
+}
+
+.count_cart{
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: #212529;
+    color: white;
+    border-radius: 35px;
+}
+
+.cus_btn{
+    font-size: 15px !important;
+    padding-top: 7px !important;
+    padding-bottom: 7px !important;
+}
+
+.header_custom{
+    background-color: #212529;
+    color: white;
+}
+
+.header_desc{
+    font-size: 20px;
+    color: #6a6d70;
+}
+
+.header_head{
+    font-size: 60px;
+    font-weight: bold;
+}
+
+.footer_custom{
+    background-color: #212529;
+    color: white;
+}
+
+.ratings_card_cus{
+    color: #ffc107;
+}
+
+.strike_cuss{
+    text-decoration: line-through;
+}
+

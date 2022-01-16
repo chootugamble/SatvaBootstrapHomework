@@ -1,0 +1,45 @@
+body {
+    font-family: Roboto_Google;
+}
+
+@font-face {
+    font-family: Roboto_Google;
+    src: url("../font/Roboto-Regular.ttf");
+}
+
+.nav-item, .navbar-brand{
+    margin-left: 10px;
+}
+
+.navigation {
+    -webkit-box-shadow: 0 10px 10px -10px #555;
+    -moz-box-shadow: 0 10px 10px -10px #555;
+    box-shadow: 0 10px 10px -10px #555;
+}
+
+.cus_header{
+    font-size: 55px;
+}
+
+.cus_desc{
+    font-size: 20px;
+}
+
+.no-bold{
+    text-decoration: none !important;
+}
+
+.cus_bootstrap_logo{
+    color: #563d7c;
+    font-size: 30px;
+}
+
+.foot_link{
+    text-decoration: none;
+    color: #555;
+}
+
+.foot_head{
+    font-weight: bold;
+    font-size: 20px;
+}

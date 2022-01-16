@@ -1,0 +1,71 @@
+body {
+    font-family: Roboto_Google;
+    background-image: url("https://media.istockphoto.com/vectors/abstract-bright-white-background-geometric-texture-vector-id1199291148?k=20&m=1199291148&s=612x612&w=0&h=rL-21ymc2PSdFpoc-Fuvcq1C-J0aHCuQlwg-I7AkIpk=");
+    background-position: center;
+    background-repeat: repeat-y;
+    background-size: cover;
+}
+
+@font-face {
+    font-family: Roboto_Google;
+    src: url("../font/Roboto-Regular.ttf");
+}
+
+.nav-item{
+    margin-left: 10px;
+}
+
+.nav-link{
+    font-weight: bold !important;
+    color: #5b7699 !important;
+}
+
+.nav-link:hover{
+    color: #7badd7 !important;
+}
+
+.btn_cus{
+    background-color: #2487ce !important;
+    padding-left: 25px !important;
+    padding-right: 25px !important;
+}
+
+.navigation{
+    border-bottom: 1px solid #9399aa;
+}
+
+.font_cus{
+    font-size: 25px !important;
+    color: #5b7699 !important;
+}
+
+.custom_header{
+    font-size: 50px !important;
+    color: #114165 !important;
+    font-weight: 900;
+}
+
+.text-cus_grey{
+    color: #757375;
+}
+
+.card-body{
+    width: 100% !important;
+}
+
+.card-title{
+    color: #133669 !important;
+}
+
+.card-text{
+    color: #938c8c !important;
+    font-weight: bold !important;
+    padding-bottom: 15px;
+}
+
+.cus_card_icon{
+    font-size: 25px !important;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    color: #2578c6;
+}
